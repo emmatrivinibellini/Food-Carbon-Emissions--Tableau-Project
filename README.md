@@ -36,8 +36,6 @@ The analysis was performed with **Tableau Public**, leveraging interactive dashb
 ## 🧰 Tools & Environment  
 
 - **Tool:** Tableau Public  
-- **Visualizations:** Interactive dashboards, donut charts, bar charts, tooltips, filters, story points  
-- **Audience:** Restaurant managers, sustainability officers, and decision-makers interested in menu optimization  
 
 ---
 
@@ -45,7 +43,6 @@ The analysis was performed with **Tableau Public**, leveraging interactive dashb
 
 - **Source:** [Global Food Emissions by Lifecycle Stage](https://ourworldindata.org/grapher/food-emissions-production-supply-chain)  
 - **Study:** [Joseph Poore & Thomas Nemecek (Science, 2018)](https://ourworldindata.org/food-choice-vs-eating-local)
-- **Columns include:** Food type, diet category, emissions by stage (animal feed, farm, land use, processing, transport, packaging, retail, losses)  
 
 ---
 
