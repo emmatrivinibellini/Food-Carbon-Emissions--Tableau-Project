@@ -58,5 +58,5 @@ The insights can help restaurants, policymakers, and consumers prioritize lower-
 | File | Description |
 |------|--------------|
 | `Food_Emissions_Presentation.pdf` | Summary of key insights, strategy suggestions, and dashboard link. |
-| `Food_Emissions_Dashboard_Demo.mp4` | Video demonstration of the interactive dashboard. |
+| `Food_Emissions_Dashboard_Demo.mp4` | Video demonstration of the interactive dashboard.  [View on Google Drive](https://drive.google.com/file/d/1iFHuzY4vjlpdJUunWS_MM6m_xrY2NXhl/view?usp=share_link) |
 | `README.md` | Project overview, dataset details, insights, and links. |
